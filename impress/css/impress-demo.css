@@ -255,7 +255,7 @@ a:focus {
 }
 
 #title .try {
-    font-size: 64px;
+    font-size: 34px;
     position: absolute;
     top: -0.5em;
     left: 1.5em;
@@ -268,7 +268,7 @@ a:focus {
 }
 
 #title h1 {
-    font-size: 190px;
+    font-size: 150px;
 
     -webkit-transform: translateZ(50px);
     -moz-transform:    translateZ(50px);
